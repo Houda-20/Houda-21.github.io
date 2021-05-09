@@ -8,11 +8,17 @@
     height: 500px;
 
 }
+.flex
+{
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+}
 body{
     background-image: url("photo-1478760329108-5c3ed9d495a0_1750x.jpg");
     /*background-color: #074047;*/
 }
-h1{
+p{
     font-family: Bahnschrift, Helvetica, sans-serif;
     padding-top:20px ;
     text-align: center;
@@ -21,7 +27,7 @@ h1{
 .poo{
     text-align: center;
     background-color: #041E25;
-    width:400px;
+    width: 300px;
     padding-top: 20px;
     padding-bottom: 20px;
     border-radius: 15px 50px 30px;
