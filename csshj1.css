@@ -12,7 +12,7 @@
 {
     display: flex;
     justify-content: space-around;
-   align-items: center;
+   margin-top:63px;
 }
 body{
     background-image: url("photo-1478760329108-5c3ed9d495a0_1750x.jpg");
